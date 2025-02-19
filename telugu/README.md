@@ -1,4 +1,4 @@
-# python
+# Python
 Python examples, demos and files
 
 ## Companion resources:
